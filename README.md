@@ -1,6 +1,9 @@
 # Build-and-Deploy-Ecommerce-Website-With-HTML-CSS-JavaScript
 
+<<<<<<< HEAD
 [<img alt="Build-and-Deploy-Ecommerce-Website-With-HTML-CSS-JavaScript" width="100%" src="https://github.com/tech2etc/Youtube-Tutorials/blob/main/Build%20and%20Deploy%20Ecommerce%20Website%20With%20HTML%20CSS%20JavaScript%20Full%20Responsive%20Ecommerce%20Course%20FREE.PNG?raw=true" />]
+=======
+>>>>>>> 5326556b2bbe5f400c495698de198e06dca6b0c7
 
 ## About this course
 LEARN HOW TO BUILD AND DEPLOY FULL RESPONSIVE ECOMMERCE WEBSITE USING HTML CSS & JAVASCRIPT. This is a free HTML CSS Course. And in this course we will learn how to build and deploy a full multipage ecommerce website completely from scratch step by step. Will Create from responsive navbar using html CSS JavaScript to responsive footer in one video.
@@ -28,4 +31,10 @@ LEARN HOW TO BUILD AND DEPLOY FULL RESPONSIVE ECOMMERCE WEBSITE USING HTML CSS &
 
 Here you will find all the images I'm using to create this responsive ecommerce website. In future image folder can update.
 
+<<<<<<< HEAD
 Get the full source code from (https://github.com/Hiwotwd/ecomm/tree/prod)
+=======
+Get the full source code from [here1](https://github.com/Hiwotwd/ecomm/tree/prod)
+
+
+>>>>>>> 5326556b2bbe5f400c495698de198e06dca6b0c7
