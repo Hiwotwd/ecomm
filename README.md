@@ -1,37 +1,20 @@
-# Build-and-Deploy-Ecommerce-Website-With-HTML-CSS-JavaScript
+## An Ecommerce Website 
+This project is an Ecommerce Website which is an online shopping platform that offers a variety of products to customers.
 
+## Features of the Ecommerce Website Name project include:
+- Responsive Home page design.
+- Shop Page & Single Product page.
+- Cart management.
+- Blog page.
+- About Page.
+- Contact Us page.
+- Responsive design for different devices.
 
+## Technologies Used for this Ecommerce Website project are the below:
+HTML, CSS, and JavaScript for the frontend
 
-## About this course
-LEARN HOW TO BUILD AND DEPLOY FULL RESPONSIVE ECOMMERCE WEBSITE USING HTML CSS & JAVASCRIPT. This is a free HTML CSS Course. And in this course we will learn how to build and deploy a full multipage ecommerce website completely from scratch step by step. Will Create from responsive navbar using html CSS JavaScript to responsive footer in one video.
+## Getting Started
+To get started with the Ecommerce Website, you will need to have a web browser installed on your computer.
 
-## Why This Course?
-- Responsive Ecommerce Website Tutorial Using HTML CSS & JavaScript.
-- Completely For Beginners.
-- Multipage Ecommerce Website Project.
-- Best Beginner Friendly Free Course On YouTube.
-- Learn How to build amazing professional and responsive websites.
-- Learn the fundamentals of web design.
-- Modern CSS, including flexbox and CSS Grid for layout.
-- Modern CSS techniques to create stunning designs and effects.
-- How to use common components and layout patterns for professional website design and development.
-- Advanced responsive design using media queries.
-- And Many More.
-
-## Sections
-- Part1: Responsive Home Page Design.
-- Part2: Shop Page & Single Product Page.
-- Part3: Blog Page.
-- Part4: About Page.
-- Part5: Contact Us.
-- Part6: Ecommerce Shopping Cart.
-
-Here you will find all the images I'm using to create this responsive ecommerce website. In future image folder can update.
-<!-- 
-<<<<<<< HEAD
+## Source Code
 Get the full source code from (https://github.com/Hiwotwd/ecomm/tree/prod)
-=======
-Get the full source code from [here1](https://github.com/Hiwotwd/ecomm/tree/prod)
-
-
->>>>>>> 5326556b2bbe5f400c495698de198e06dca6b0c7 -->
